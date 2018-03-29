@@ -116,7 +116,12 @@ class Dogs extends Component {
     ];
     render() {
         const loadDogs = this.doglist.map(dog => {
-            return <Dog url={dog.images[0].image1} alt={dog.id} breed={dog.breed} temperament={dog.temperament} >
+            return <Dog
+                url={dog.images[0].image1}
+                alt={dog.id}
+                breed={dog.breed}
+                temperament={dog.temperament}
+                key={dog.id}>
             </Dog>
 
         });
