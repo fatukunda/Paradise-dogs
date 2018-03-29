@@ -1,0 +1,8 @@
+.Dogs{
+    margin-top: 2px;
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box;
+    display: inline-block;
+
+}

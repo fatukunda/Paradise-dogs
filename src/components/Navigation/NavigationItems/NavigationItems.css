@@ -1,0 +1,6 @@
+.NavigationItems{
+    display: inline-block;
+    overflow: hidden;
+    list-style-type: none;
+    align-items: center;
+}

@@ -1,0 +1,7 @@
+.Navigation{
+    width: 100%;
+    height: 100px;
+    background-color: #f7fade;
+    overflow: hidden;
+    box-sizing: border-box;
+}

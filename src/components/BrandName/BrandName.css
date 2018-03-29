@@ -1,0 +1,9 @@
+.BrandName{
+    display: inline-block;
+    overflow: hidden;
+}
+.BrandName h4{
+    text-align: center;
+    text-transform: uppercase;
+    color: #4e5516;
+}

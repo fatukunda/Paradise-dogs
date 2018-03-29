@@ -1,0 +1,29 @@
+
+@media (min-width: 500px) {
+    .Dog{
+        width: 30%;
+        height: 400px;
+        margin: 1px;
+        display: inline-block;
+        box-sizing: border-box;
+        text-align: center;
+        border: 1px solid #fff;
+    }
+    .Dog img{
+        width: 100%;
+        height: 50%;
+        float: top;
+        overflow: hidden;
+    }
+    .Dog button{
+        width: 140px;
+        height: 30px;
+        text-transform: uppercase;
+        cursor: pointer;
+        background-color: #d68227;
+        color: #fff;
+    }
+    .Dog button:hover{
+    }
+    
+}
